@@ -1,5 +1,5 @@
-name: phoneauth_api
-description: service for firebase phone auth
+name: phoneauth_service
+description: A package that contains auth service that provides cleaner implementation of stacked
 version: 0.0.1
 homepage:
 

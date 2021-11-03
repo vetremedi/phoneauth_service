@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:developer';
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:phoneauth_api/src/result.dart';
+import 'package:phoneauth_service/src/result.dart';
 
 const String kGenericErrorMessage =
     "error occurred during phone number verification";

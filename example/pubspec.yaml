@@ -19,9 +19,10 @@ dependencies:
   stacked_services: ^0.8.15
   logger: ^1.1.0
 
-  phoneauth_api:
-    path: ../
   firebase_core: ^1.8.0
+  phoneauth_service:
+    path: ../
+    
 
 dev_dependencies:
   flutter_test:

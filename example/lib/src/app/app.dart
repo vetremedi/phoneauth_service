@@ -1,7 +1,7 @@
 import 'package:example/src/global/home/home_view.dart';
 import 'package:example/src/global/splash/splash_view.dart';
 import 'package:example/src/modules/auth/login/login_view.dart';
-import 'package:phoneauth_api/phoneauth_api.dart';
+import 'package:phoneauth_service/phoneauth_service.dart';
 import 'package:stacked/stacked_annotations.dart';
 import 'package:stacked_services/stacked_services.dart';
 

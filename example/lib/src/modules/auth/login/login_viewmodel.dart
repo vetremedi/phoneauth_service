@@ -4,7 +4,7 @@ import 'package:example/src/app/app.locator.dart';
 import 'package:example/src/app/app.router.dart';
 import 'package:example/src/modules/auth/login/login_view.form.dart';
 import 'package:flutter/material.dart';
-import 'package:phoneauth_api/phoneauth_api.dart';
+import 'package:phoneauth_service/phoneauth_service.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 
